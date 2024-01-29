@@ -25,5 +25,6 @@ private void assertequals(String str1, String str2) {
 @Test 
 public void sample2() {
 	Reporter.log("hello",true);
+	System.out.println("it is my first updated from gethub")
 }
 }
